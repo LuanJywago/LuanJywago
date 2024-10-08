@@ -6,8 +6,8 @@
 - 😜 Aprendendo Python e HTML
 
 <div align="center">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=EduardoFerreira7351&show_icons=true&theme=chartreuse-dark"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFerreira7351&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LuanJywago&show_icons=true&theme=chartreuse-dark"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanJywago&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
 ##
