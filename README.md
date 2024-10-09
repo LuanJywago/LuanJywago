@@ -18,5 +18,5 @@
 ##
 
 <div align="center">
-  <img alaing=center alt="aigis" src="https://www.behance.net/gallery/40343363/Dragon-temple-gif-animation/modules/244103927"/>
+  <img alaing=center alt="aigis" src="https://imgur.com/pwuZqq4"/>
 </div>
