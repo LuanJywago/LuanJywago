@@ -3,7 +3,7 @@
 
 
 - 📚 i`m in first semester of university
-- 😜 Learning: Python, HTML, CSS, JS and DataBase
+- 😜 Learning: Python, HTML, CSS, JS, Java and DataBase
 
 <div align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LuanJywago&show_icons=true&theme=chartreuse-dark"/>
