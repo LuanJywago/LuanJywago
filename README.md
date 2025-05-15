@@ -2,8 +2,8 @@
 
 
 
-- 📚 i`m in first semester of university
-- 😜 Learning: Python, HTML, CSS, JS, Java and DataBase
+- 📚 i`m in second semester of university
+- 😜 Learning: Python, HTML, CSS, JS, Java and DataBase.
 
 
 <div align="center">
