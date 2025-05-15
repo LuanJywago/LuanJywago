@@ -26,6 +26,9 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
 
+<h1>Banco de Dados</h1>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"target="_blank"></a>
+
 
 
 
