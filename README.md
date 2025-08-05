@@ -3,7 +3,7 @@
 
 
 - 📚 i`m in second semester of university
-- 😜 Learning: Python, HTML, CSS, JS, Java and DataBase.
+- 😜 Learning: Python, HTML, CSS, JS, Java, C#, .NET and DataBase.
 
 
 <div align="center">
