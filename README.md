@@ -2,7 +2,7 @@
 
 
 
-- 📚 i`m in second semester of university
+- 📚 i`m in third semester of university
 - 😜 Learning: Python, HTML, CSS, JS, Java, C#, .NET and DataBase.
 
 
