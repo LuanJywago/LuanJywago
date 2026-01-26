@@ -3,7 +3,7 @@
 
 
 - 📚 i`m in fourth semester of university
-- 😜 Learning: Python, HTML, CSS, JS, Java, C#, .NET and DataBase.
+- 😜 Learning: Python, HTML, CSS, JS, Java, C#, .NET DataBase (MySQL) and Power BI.
 
 
 <div align="center">
