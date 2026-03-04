@@ -10,18 +10,16 @@
 ## 👨‍🎓 Sobre Mim
 
 - 📚 Cursando o **4° semestre** de Ciência da Computação.
-- 🚀 Aprendendo e desenvolvendo em: **Python, Java, C#, .NET, bancos de dados e Power BI**.
-- 🎯 **Objetivo:** Atuar como Desenvolvedor Full-Stack e Data Analyst, com foco na entrega de soluções eficientes e análises precisas.
+- 🚀 Desenvolvendo soluções com: **Python, Java, C#, .NET, bancos de dados e Power BI**.
+- 🎯 **Objetivo:** Atuar como Desenvolvedor Full-Stack e Data Analyst, focando em arquiteturas limpas e análises precisas.
 
 ---
 
 ## 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LuanJywago&show_icons=true&theme=chartreuse-dark"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanJywago&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuanJywago&theme=tokyonight" width="705" alt="Estatísticas do Perfil"/>
 </div>
-
 
 <br>
 
@@ -34,22 +32,17 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
+  <p><strong>Linguagens, Bancos e Infraestrutura</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cs,dotnet,mysql,docker,html,css,js,git,github" alt="Minhas Skills"/>
+  </a>
+</div>
 
-  **Análise de Dados & Backend** <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<br>
 
-  <br><br>
-  **Frontend** <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
+<div align="center">
+  <p><strong>Análise de Dados</strong></p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </div>
 
 ---
