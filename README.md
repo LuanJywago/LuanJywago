@@ -18,9 +18,10 @@
 ## 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuanJywago&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanJywago&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="300" alt="Linguagens mais usadas"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LuanJywago&show_icons=true&theme=chartreuse-dark"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanJywago&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
+
 
 <br>
 
