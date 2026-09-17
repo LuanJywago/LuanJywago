@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Luan Jywago 👨‍💻</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação — 4º semestre <br>
+  Estudante de Ciência da Computação — 5º semestre <br>
   Apaixonado por dados, desenvolvimento de software e evolução constante!
 </p>
 
@@ -9,7 +9,7 @@
 
 ## 👨‍🎓 Sobre Mim
 
-- 📚 Cursando o **4° semestre** de Ciência da Computação.
+- 📚 Cursando o **5° semestre** de Ciência da Computação.
 - 🚀 Desenvolvendo soluções com: **Python, Java, C#, .NET, bancos de dados e Power BI**.
 - 🎯 **Objetivo:** Atuar como Desenvolvedor Full-Stack e Data Analyst, focando em arquiteturas limpas e análises precisas.
 
